@@ -11,8 +11,9 @@
 
 #### Sobre Minha Jornada
 ____________________________________________________________________________________________________________________________________________________________
+Com mais de 7 anos de experiência administrativa e comercial, e uma sólida formação em Gestão de Qualidade e Engenharia de Software, sou apaixonada por dados e tecnologias de nuvem. Atualmente, trabalho com ONGs promovendo transformação digital.
 
-### Linguagens de Programação Utilizadas
+### Linguagens de Programação Utilizada
 
 <div style="display: inline-block;">
   <img alinhar="center" alt="Python" altura="30" largura="40" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
