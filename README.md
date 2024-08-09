@@ -22,7 +22,7 @@ Com mais de 7 anos de experiência administrativa e comercial, e uma sólida for
 </div>
 
 
-### Bibliotecas de Ciência de dados 
+### Bibliotecas de Engenharia de dados 
 <div style="display: flex; align-items: center;">
   <img alinhar="Pandas" altura="30" largura="40" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img alinhar="Jupyter" altura="30" largura="40" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
@@ -36,6 +36,13 @@ Com mais de 7 anos de experiência administrativa e comercial, e uma sólida for
   <img alt="Excel" altura="30" largura="40" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </div>
 
+### Banco de dados 
+
+<div style="display: inline-block;">
+  <img alinhar="center" alt="MySQL" altura="30" largura="40" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alinhar="center" alt="MongoDB" altura="30" largura="40" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alinhar="center" alt="Cassandra" altura="30" largura="40" src="https://img.shields.io/badge/Cassandra-4F5D95?style=for-the-badge&logo=apache-cassandra&logoColor=white"/>
+</div>
 
 ### Ambientes de nuvem com os quais tenho experiência!
 
@@ -43,5 +50,4 @@ Com mais de 7 anos de experiência administrativa e comercial, e uma sólida for
   <img align="center" alt="Google Cloud" altura="30" largura="40" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
   <img align="center" alt="AWS Cloud" altura="30" largura="40" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </div>
-
 
