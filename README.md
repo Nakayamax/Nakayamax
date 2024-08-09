@@ -1,5 +1,5 @@
 
- ## Gabriela Silva Soares Nakayama 👋
+ ## Gabriela Silva Soares Nakayama 
 
  
 #### Data Enginner
