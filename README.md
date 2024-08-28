@@ -11,8 +11,7 @@
 
 #### Sobre Minha Jornada
 ____________________________________________________________________________________________________________________________________________________________
-Com mais de 7 anos de experiência administrativa e comercial, e uma sólida formação em Gestão de Qualidade e Engenharia de Software, sou apaixonada por dados e tecnologias de nuvem. Atualmente, trabalho com ONGs promovendo transformação digital.
-
+Com mais de 7 anos de experiência nas áreas administrativa e comercial no setor de saúde, sou graduada em Gestão da Qualidade e possuo um MBA em Engenharia de Software. Minha missão e entrega de soluções para banco de dados. Atualmente, colaboro com ONGs para promover a transformação digital, sendo guiada pela cultura data-driven.
 ### Linguagens de Programação Utilizada
 
 <div style="display: inline-block;">
