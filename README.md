@@ -21,7 +21,7 @@ I use code to solve real user problems and create high-level software solutions
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakayamax&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Nakayamax/github-readme-stats)
 
-![Visitor Count](https://profile-counter.glitch.me/Nakayamax/count.svg)
+
 
 Get in touch
 
@@ -29,3 +29,7 @@ Get in touch
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:g.nakayama.gn@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511947975073)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](link-do-seu-portfolio)
+
+Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/Nakayamax/count.svg)
