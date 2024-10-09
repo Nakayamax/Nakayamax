@@ -13,6 +13,14 @@
 - 🤝 &nbsp; Participating in tech events 🤖 and experimenting with the latest IoT trends.
 - 🐱 &nbsp; Cat lover, living a healthy life and embracing good humor.
 
+<h3> 🧰 Tech Stack </h3>
+ 
+- 💻 &nbsp; Python | HTML | CSS | JavaScript | TypeScript
+- 🌐 &nbsp; Vue.js
+- ☁️ &nbsp; Google Cloud | AWS | Docker
+- 🔧 &nbsp; Visual Studio Code | Eclipse | Git
+- 🎨 &nbsp; Figma
+
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nakayamax&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=1E90FF&icon_color=A9A9A9&text_color=FFFFFF&bg_color=0,1C1C1C,2C2C2C" alt="Nakayamax's Github Stats">
