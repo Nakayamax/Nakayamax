@@ -16,10 +16,14 @@ I use code to solve real user problems and create high-level software solutions
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nakayamax&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Nakayamax's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nakayamax&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=1E90FF&icon_color=A9A9A9&text_color=FFFFFF&bg_color=0,1C1C1C,2C2C2C" alt="Nakayamax's Github Stats">
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakayamax&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Nakayamax/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakayamax&layout=compact&text_color=FFFFFF&bg_color=0,1C1C1C,2C2C2C)](https://github.com/Nakayamax/github-readme-stats)
+
+
+
 
 
 
