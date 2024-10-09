@@ -1,6 +1,5 @@
 
  <h2> Hi, I'am Gabriela Nakayama! </h2>
-I use code to solve real user problems and create high-level software solutions
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="300"/>
 
