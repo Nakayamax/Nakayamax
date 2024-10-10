@@ -1,5 +1,4 @@
-
- <h2> Hi, I'am Gabriela Nakayama! </h2>
+<h2> Hi, I'm Gabriela Nakayama! </h2>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="300"/>
 
@@ -14,12 +13,13 @@
 - 🐱 &nbsp; Cat lover, living a healthy life and embracing good humor.
 
 <h3> 🧰 Tech Stack </h3>
- 
+
 - 💻 &nbsp; Python | HTML | CSS | JavaScript | TypeScript
 - 🌐 &nbsp; Vue.js
 - ☁️ &nbsp; Google Cloud | AWS | Docker
 - 🔧 &nbsp; Visual Studio Code | Eclipse | Git
-- 🎨 &nbsp; Figma
+- 🎨 &nbsp; Figma | draw.io | Excalidraw
+
 
 <br>
 
